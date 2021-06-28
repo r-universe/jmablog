@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jmablog/universe
 	shallow = true
 	branch = HEAD
+[submodule "tinieR"]
+	path = tinieR
+	url = https://github.com/jmablog/tinieR
+	shallow = true
+	registered = true
