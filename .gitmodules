@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/jmablog/universe
+	url = https://github.com/jmablog/jmablog.r-universe.dev
 	branch = HEAD
 [submodule "tinieR"]
 	path = tinieR
